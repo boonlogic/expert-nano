@@ -1,4 +1,4 @@
-![Logo](https://github.com/boonlogic/expert-nano/blob/master/images/BoonLogic.png)
+![Logo](https://github.com/boonlogic/expert-nano/images/BoonLogic.png)
 
 # Boon Logic Expert Nano
 
