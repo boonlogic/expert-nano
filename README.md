@@ -1,3 +1,5 @@
+![Logo](https://github.com/boonlogic/expert-nano/blob/master/images/BoonLogic.png)
+
 # Boon Logic Expert Nano Documentation
 
 ## Overview
