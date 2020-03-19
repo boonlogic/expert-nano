@@ -4,8 +4,10 @@
 
 [Nano Documentation](https://boonlogic.github.io/expert-rest-api/UI-docs)
 
-## SDKs
+## SDK Guides and Tutorials
 
-[Python SDK Guides and Tutorials](https://boonlogic.github.io/expert-python-sdk/docs/python-docs)
+[Python SDK Documentation](https://boonlogic.github.io/expert-python-sdk/docs/python-docs)
 
-[Matlab SDK Guides and Tutorials](https://boonlogic.github.io/expert-matlab-sdk)
+[Matlab SDK Documentation](https://boonlogic.github.io/expert-matlab-sdk)
+
+[Mathematica Documentation](https://boonlogic.github.io/expert-mathematica-sdk)
