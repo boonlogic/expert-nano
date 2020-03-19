@@ -6,6 +6,8 @@
 
 ## SDK Guides and Tutorials
 
+[Excel SDK Documentation](https://boonlogic.github.io/expert-excel-sdk)
+
 [Python SDK Documentation](https://boonlogic.github.io/expert-python-sdk/docs/python-docs)
 
 [Matlab SDK Documentation](https://boonlogic.github.io/expert-matlab-sdk)
