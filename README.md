@@ -8,4 +8,4 @@
 
 [Python SDK Guides and Tutorials](https://boonlogic.github.io/expert-python-sdk/docs/python-docs)
 
-
+[Matlab SDK Guides and Tutorials](https://boonlogic.github.io/expert-matlab-sdk)
